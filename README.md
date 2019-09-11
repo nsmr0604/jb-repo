@@ -1,2 +1,0 @@
-# jb-repo
-THIS IS A nsmr0604's REPOSITORY FOR JAILBREAK.

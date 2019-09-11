@@ -1,0 +1,8 @@
+Origin: nsmr0604
+Label: nsmr0604's repo
+Suite: stable
+Version: 1.0
+Codename: jp.nsmr0604
+Architectures: iphoneos-arm
+Components: main
+Description: nsmr0604's JB Repository
