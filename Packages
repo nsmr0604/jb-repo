@@ -4,10 +4,10 @@ Architecture: iphoneos-arm
 Maintainer: nsmr0604
 Depends: curl, gzip
 Filename: ./Debs/rclone-ios64.deb
-Size: 1056
-MD5sum: e5cffb195fcaf998d8e78927b64c27ab
-SHA1: a2f97a650ec2bb7cb320b827044bd35eb31f27f5
-SHA256: d8dae000ac16131187f28cf74f27a7be32be324f03946ef808a0c014dfd161e7
+Size: 1152
+MD5sum: e4a2daf5d5971304cdf113dd6121226e
+SHA1: 608466f2acae2388ea0d0fe9678f5308941ad318
+SHA256: 876cee901a46e90601551b703fae4416f09388b65d868378f0dde9e4b35c2018
 Homepage: https://rclone.org/
 Description: Rclone ("rsync for cloud storage") is a command line program to sync files and directories to and from different cloud storage providers.
 Author: rclone
